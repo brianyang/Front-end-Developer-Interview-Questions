@@ -145,6 +145,8 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
   * What is an example of an immutable object in JavaScript?
   * What are the pros and cons of immutability?
   * How can you achieve immutability in your own code?
+* Explain the difference between map() and reduce()
+* What is the difference between ES6, ES.next, and ES6 Harmony?
 
 #### Testing Questions:
 
